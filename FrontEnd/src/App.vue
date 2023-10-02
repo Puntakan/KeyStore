@@ -6,7 +6,7 @@
         <div class="header">
 
             <div class="logo"><img src="./assets/key.png">KeyStore</div>
-            <div class="Content"><p>Contact Us</p></div>
+            <div class="Content"><p>About Us</p></div>
             <div class="Content"><p>FAQ</p></div>
             
   <!-- search bar right align -->
